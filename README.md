@@ -5,7 +5,7 @@
 > 返回慢时，优化此程序到lotus rpc之间的链接
 ```bash
 git clone https://github.com/beck-8/sectors_penalty.git
-make build
+make all
 
 # run
 ./sectors_penalty
